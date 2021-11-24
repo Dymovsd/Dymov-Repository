@@ -1,0 +1,6 @@
+get config user.name "Dymovsd@
+get config user.email "dymovsd@kuzstu.ru"
+get init
+echo "Dymov-Repository" > README.mb
+git status
+git add README.mb
